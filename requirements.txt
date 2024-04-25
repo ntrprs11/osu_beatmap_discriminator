@@ -1,0 +1,9 @@
+librosa
+numpy
+scipy
+matplotlib
+pandas
+python-dotenv
+ossapi
+sklearn
+aiohttp
